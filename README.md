@@ -1,4 +1,4 @@
-# Hi 👋
+# Hi there!👋
 
 I’m **Saad**, an aspiring **Full-Stack Developer**.  
 🌱 Learning: HTML & CSS → Git → JavaScript + Python  
@@ -12,4 +12,5 @@ I’m **Saad**, an aspiring **Full-Stack Developer**.
 
 ---
 
-📫 **E-Mail**: s.gabbas1324@example.com
+📫 **Contact**: [Email Me](mailto:s.gabbas1324@example.com)
+
