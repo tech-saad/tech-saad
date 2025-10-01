@@ -1,4 +1,4 @@
-# Hi, I'm Saad 👋  
+# Hi, I'm Ghulam Abbas 👋  
 
 💻 A self-driven **Aspiring Full-Stack Developer** passionate about building clean and functional web applications.  
 🌱 Currently learning **HTML & CSS**, next up: **Git → JavaScript → Python**.  
@@ -8,8 +8,9 @@
 
 ## 🛠️ Skills & Tools  
 
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">  
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)  
+
 <!-- Later add: JavaScript, Python, Git, etc. -->
 
 ---
@@ -32,7 +33,7 @@
 
 ## 📫 Contact  
 
-📧 [Email Me](mailto:s.gabbas1324@gmail.com)  
+📧 [Email Me](mailto:s.gabbas1324@example.com)  
 
 ---
 
