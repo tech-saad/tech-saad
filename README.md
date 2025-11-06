@@ -18,8 +18,8 @@
 ## 🛠️ Featured Projects  
 
 - [Survey Form](https://tech-saad.github.io/survey-form/) – A simple data entry form built with HTML & CSS.  
-- [Product Landing Page](https://tech-saad.github.io/product-landing-page/) – A tribute webpage project showcasing semantic HTML & styling.  
-- Personal Portfolio (🚧 coming soon) – My central hub for projects and contact info.  
+- [Product Landing Page](https://tech-saad.github.io/product-landing-page/) – A clean, responsive product showcase built using HTML and CSS.
+- [Personal Portfolio](https://tech-saad.github.io/my-portfolio/) – My central hub for projects and contact info.  
 
 ---
 
