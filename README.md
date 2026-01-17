@@ -25,8 +25,8 @@
 
 ## 📚 Currently Learning  
 
-- ⚡️ Git (version control & collaboration)  
-- 🟨 JavaScript (next step after Git)  
+- ⚡️ Java 
+- 🟨 JavaScript 
 - 🐍 Python (planned for later)  
 
 ---
